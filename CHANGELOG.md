@@ -6,6 +6,7 @@ What's new in each release of Elpris-LED, written for people who use the lamp. L
 
 - Tests for every time zone in the list (winter and summer offsets, daylight saving change days) and for keeping the dimming setting from v3.0. No change in how the lamp behaves.
 - A pull request checklist and this changelog, so documentation is updated together with the code.
+- An emulator in the browser, on the install page under emulator/, that shows how the strip looks for a day's prices and lets you try other ways of choosing the colors. No change in how the lamp behaves.
 
 ## v3.1
 
